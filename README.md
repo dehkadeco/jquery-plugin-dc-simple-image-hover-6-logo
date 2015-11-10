@@ -1,7 +1,8 @@
 # jquery-plugin-dc-simple-image-hover-6-logo
 With this plugin you have six different picture with three beautiful effects. That allow linking to your website hotspots
 
-[see demo and effects on version 0.5 of dc simple image hover jquery plugin on dehkadeco.ir](http://dehkadeco.ir/en/jquery-plugins/dc-simple-image-hover.html)
+_[see demo and effects on version 0.5 of dc simple image hover jquery plugin on dehkadeco.ir](http://dehkadeco.ir/en/jquery-plugins/dc-simple-image-hover.html)_
+
 
 ![jquery plugin dc simple image hover demo](http://dehkadeco.ir/images/tasavir/downloads_cat/Dc_Six_Logo_Hover_For_Joomla/module-dc-six-logo-hover_1.jpg)
 ## Quick start
@@ -65,7 +66,7 @@ you should use similar Html code code :
 * zoom_in
 * zoom_out
 
- 
+_[powered by dehkadeco.ir](http://dehkadeco.ir/)_
 
  
 
